@@ -5,8 +5,8 @@
 </script>
 
 <section>
-  <h1>Dev Mode Setup <br />in a Few Steps</h1>
-  <p>Before connecting your wallet please follow the steps below.</p>
+  <h1>Deez nuts</h1>
+  <p>Liquidity solutions for the Radix Ledger</p>
 </section>
 <DevModeSteps />
 <section>

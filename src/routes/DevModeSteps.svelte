@@ -6,7 +6,7 @@
   <div class="dev-mode-content-container">
     <div class="dev-mode-steps-col">
       <div class="dev-mode-step-container">
-        <h2 class="step-nums">Step 1</h2>
+        <h2 class="step-nums">wtf does this do?</h2>
         <h3 class="step-heading">Select Dev Mode in the Radix Wallet</h3>
         <p class="step-text">
           Open the Radix Wallet, then go to Configurations -> App settings ->
@@ -39,10 +39,10 @@
       </div>
     </div>
     <!-- Dev Mode Gif Start -->
-    <div class="dev-mode-gif-container">
+    <!-- <div class="dev-mode-gif-container">
       <img src={devModeGif} alt="dev mode setup" />
-    </div>
-    <!-- Dev Mode Gif End -->
+    </div> -->
+    Dev Mode Gif End
   </div>
 </div>
 
